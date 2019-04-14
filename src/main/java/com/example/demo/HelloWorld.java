@@ -12,6 +12,9 @@ public class HelloWorld {
 	public String helloWorld(){
 		System.out.println("长风破浪会有时，");
 		System.out.println("直挂云帆济沧海。");
+		System.out.println("会当凌绝顶，");
+		System.out.println("一览众山小。");
+		System.out.println("落红不是无情物，化作春泥更护花。");
 		return "HelloWorld";
 	}
 	
