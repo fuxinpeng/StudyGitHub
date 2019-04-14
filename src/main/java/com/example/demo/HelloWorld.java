@@ -10,8 +10,8 @@ public class HelloWorld {
 	@ResponseBody
 	@RequestMapping("/helloworld")
 	public String helloWorld(){
-		System.out.println("会当凌绝顶，");
-		System.out.println("一览众山小。");
+		System.out.println("长风破浪会有时，");
+		System.out.println("直挂云帆济沧海。");
 		return "HelloWorld";
 	}
 	
